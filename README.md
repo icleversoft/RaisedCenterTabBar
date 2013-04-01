@@ -1,4 +1,4 @@
-###Forked from https://github.com/boctor/idev-recipes/RaisedCenterTabBar
+###Forked from https://github.com/boctor/idev-recipes/
 
 Blog post: [http://idevrecipes.com/2010/12/16/raised-center-tab-bar-button][]
 
